@@ -1,9 +1,17 @@
-body {
- margin: 0;
- padding: 0;
- background-image: url('file:///tmp/guest-w03n4j/Downloads/distractedboyfriend.webphttps://b2729162.smushcdn.com/2729162/wp-content/uploads/2021/06/distractedboyfriend-768x514.jpg?lossy=1&strip=1&webp=1');
- background-size: cover;
- background-repeat: no-repeat;
- background-position: center;
- font-family: Arial, sans-serif;
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Video</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="video-box">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KNJPaI0N82E" frameborder="0" allowfullscreen></iframe>
+        <div class="info">
+            <h3>Título do Vídeo</h3>
+            <p>Descrição breve do vídeo.</p>
+        </div>
+    </div>
+</body>
+</html>
